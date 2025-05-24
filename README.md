@@ -2,7 +2,7 @@ OPIS NALOGE:
 
 Prižig žarnic: S tipkalom b1 naj se trajno prižge LED 1, s tipkalom b2 pa LED 2. S skupnim tipkalom b3 naj se LED ugasneta. S tipko b4 pa se stanji LED zamenjata. Hkrati sme goreti le ena LED! Prehod od gorenja ene LED na drugo naj bo možen, če prejšnjo LED ugasnemo s tipko b3. Ukaz za ugasnitev ima prednost pred     ukazom za vklop.
 
-![image](https://github.com/user-attachments/assets/f016b527-7c2d-45e5-81ae-14d16b597adf)
+![shema](https://github.com/user-attachments/assets/ff75d279-2e04-4d8d-a4fa-82703b2a36ec)
 
 
 KOSOVNICA: 
