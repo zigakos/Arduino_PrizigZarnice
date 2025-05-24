@@ -13,4 +13,7 @@ KOSOVNICA:
   - 1x Prototipna plošča (breadboard),
   - Več jumper kablov (M-M),
   - Več resistorjev.
+
+KOMENTAR/OPOMBE: 
+mislim da program in vezje oba delujeta brezhibno, mogoce bi lahko nalogo popestrili tako, da bi s potenciometrom izbirali se svetlost led diod med delovanjem in na LCD zaslon izpisovali stanje vsake izmed LED diod.
     
