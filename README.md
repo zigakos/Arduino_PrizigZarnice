@@ -128,5 +128,9 @@ void updateLEDs() {
 }
 
 
+```
+
+# ➢ PRIREDBENI SEZNAM: 📝
+![image](https://github.com/user-attachments/assets/42eb627b-963e-41ce-a7f7-b1df971b82c7)
 
     
