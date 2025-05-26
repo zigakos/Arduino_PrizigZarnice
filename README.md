@@ -1,11 +1,11 @@
-# ➢ OPIS NALOGE:
+# ➢ OPIS NALOGE: 📰
 
 Prižig žarnic: S tipkalom b1 naj se trajno prižge LED 1, s tipkalom b2 pa LED 2. S skupnim tipkalom b3 naj se LED ugasneta. S tipko b4 pa se stanji LED zamenjata. Hkrati sme goreti le ena LED! Prehod od gorenja ene LED na drugo naj bo možen, če prejšnjo LED ugasnemo s tipko b3. Ukaz za ugasnitev ima prednost pred     ukazom za vklop.
 
 ![shema](https://github.com/user-attachments/assets/ff75d279-2e04-4d8d-a4fa-82703b2a36ec)
 
 
-# ➢ KOSOVNICA: 
+# ➢ KOSOVNICA: 📐
   - 1x Arduino UNO,
   - 2x LED diodi,
   - 4x stikala,
@@ -15,11 +15,11 @@ Prižig žarnic: S tipkalom b1 naj se trajno prižge LED 1, s tipkalom b2 pa LED
   - Več resistorjev.
 
 
-# ➢ KOMENTAR/OPOMBE: 
+# ➢ KOMENTAR/OPOMBE: 📝
 mislim da program in vezje oba delujeta brezhibno, mogoce bi lahko nalogo popestrili tako, da bi s potenciometrom izbirali se svetlost led diod med delovanjem in na LCD zaslon izpisovali stanje vsake izmed LED diod.
 
 
-# SLIKA VEZJA: 
+# SLIKA VEZJA: 📷
 ![image](https://github.com/user-attachments/assets/813b51c4-fa35-4490-8286-36aeba7e15fc)
 
 
