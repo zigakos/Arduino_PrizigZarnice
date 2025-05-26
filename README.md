@@ -19,5 +19,10 @@ Prižig žarnic: S tipkalom b1 naj se trajno prižge LED 1, s tipkalom b2 pa LED
 mislim da program in vezje oba delujeta brezhibno, mogoce bi lahko nalogo popestrili tako, da bi s potenciometrom izbirali se svetlost led diod med delovanjem in na LCD zaslon izpisovali stanje vsake izmed LED diod.
 
 
+# SLIKA VEZJA: 
+![image](https://github.com/user-attachments/assets/813b51c4-fa35-4490-8286-36aeba7e15fc)
+
+
+
 
     
