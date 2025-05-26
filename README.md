@@ -12,7 +12,7 @@ Prižig žarnic: S tipkalom b1 naj se trajno prižge LED 1, s tipkalom b2 pa LED
   - 1x USB kabel za povezavo z računalnikom,
   - 1x Prototipna plošča (breadboard),
   - Več jumper kablov (M-M),
-  - Več resistorjev.
+  - 2x rezistor.
 
 
 # ➢  KOMENTAR/OPOMBE: 📝
