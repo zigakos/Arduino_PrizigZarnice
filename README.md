@@ -28,7 +28,11 @@ mislim da program in vezje oba delujeta brezhibno, mogoce bi lahko nalogo popest
 ![image](https://github.com/user-attachments/assets/813b51c4-fa35-4490-8286-36aeba7e15fc)
 
 # VIDEOPOSNETEK DELOVANJA:
-![Ovni cat](https://github.com/user-attachments/assets/a1df9bd4-6d56-4223-821c-c8ea333e1a2b)
+
+
+
+
+https://github.com/user-attachments/assets/0d7327f6-f3c9-455d-b393-30005a0ce3b2
 
 
 
