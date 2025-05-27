@@ -28,7 +28,7 @@ mislim da program in vezje oba delujeta brezhibno, mogoce bi lahko nalogo popest
 ![image](https://github.com/user-attachments/assets/813b51c4-fa35-4490-8286-36aeba7e15fc)
 
 # VIDEOPOSNETEK DELOVANJA:
-![video]https://github.com/zigakos/Arduino_PrizigZarnice/blob/main/1000014302_1.mp4
+![video](https://github.com/zigakos/Arduino_PrizigZarnice/blob/main/1000014302_1.mp4)
 
 
 
