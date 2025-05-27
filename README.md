@@ -25,7 +25,8 @@ mislim da program in vezje oba delujeta brezhibno, mogoce bi lahko nalogo popest
 
 
 # ➢  SLIKA VEZJA: 📷
-![image](https://github.com/user-attachments/assets/813b51c4-fa35-4490-8286-36aeba7e15fc)
+![Screenshot_20250524_112607_Gallery](https://github.com/user-attachments/assets/172afa26-1413-453b-a1f0-3f6d2d1736e3)
+
 
 # VIDEOPOSNETEK DELOVANJA:
 
